@@ -2,7 +2,7 @@ import React from 'react'
 import { SignUp, SignUpContainer } from './styledComponents/SignupStyles'
 import { Input } from './styledComponents/Input'
 import { Button } from './styledComponents/Button'
-export default function Signup() {
+export default function SignUp1() {
   return (
     <SignUp> {/* we use it like a div */}
      <SignUpContainer>

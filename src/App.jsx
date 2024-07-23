@@ -7,7 +7,7 @@ import Header from './components/Header'
 import Features from './components/Features'
 import { Container } from './components/styledComponents/Container'
 import Teams from './components/Teams'
-/* import { SignUp } from './components/styledComponents/SignupStyles' */
+import SignUp1 from "./components/SignUp1"
 
 function App() {
   
@@ -21,7 +21,7 @@ function App() {
              <Features/>
        </Container>
        <Teams/>
-        {/* <SignUp/>  */}
+         <SignUp1/>  
       </ThemeProvider>
     </>
   )

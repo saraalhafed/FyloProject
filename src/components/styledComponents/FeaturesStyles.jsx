@@ -7,7 +7,7 @@ align-items:center;
 margin-top: 10rem;
 padding: 1rem;
 h1{
-font-size:43px;
+font-size:42px;
 }
 p{
 font-size: 23px;
