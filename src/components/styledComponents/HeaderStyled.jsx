@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 
 export const Logo=styled.img`
-width:250px
+width:250px;
 `;
 
 export const Link =styled.a`
